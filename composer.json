@@ -9,7 +9,6 @@
             "email": "dev@hisan-web.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.5"
     },
