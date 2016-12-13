@@ -3,7 +3,6 @@
     "description": "a aliyun mail push package",
     "type": "package",
     "license": "MIT",
-    "version": "1.0.0",
     "authors": [
         {
             "name": "hisan",
