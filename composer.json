@@ -3,15 +3,15 @@
     "description": "a aliyun mail push package",
     "type": "package",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "hisan",
             "email": "dev@hisan-web.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
-        "php": ">=5.5"
+        "php": ">=5.6.0"
     },
     "autoload": {
         "psr-4": {
